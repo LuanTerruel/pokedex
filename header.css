@@ -1,0 +1,18 @@
+header{
+    width: 100%;
+    height: 617px;
+    background-color: #5edf5e;
+    align-items: flex-start;
+
+}
+.header-content{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    width: 600px;
+    height: 200px;
+    align-items: flex-start;
+}
