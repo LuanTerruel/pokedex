@@ -1,18 +1,18 @@
-*{
+:root{
+    --white: #ffffff;
+ --red: #c20000;
+}*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-body{
+}body{
     font-family: 'Bungee Spice', cursivo;
     font-size: 500;
-}
-hi, h2, h3 {
+}hi, h2, h3 {
     font-family: 'Bungee Spice', cursivo;
-span{
+}span{
     font-family: 'Bungee Spice', cursivo;
-}
-.container{
+}.container{
     max-width: 1200px;
     margin: 0 auto;
 }

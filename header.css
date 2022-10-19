@@ -1,18 +1,15 @@
 header{
-    width: 100%;
-    height: 617px;
-    background-color: #5edf5e;
+    height: 80px;
+    background-color: var(--red);
     align-items: flex-start;
 
-}
-.header-content{
+}.header-content{
     height: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
-.logo{
-    width: 600px;
-    height: 200px;
-    align-items: flex-start;
+}.header-content-logo{
+    width: 150px;
+}.header-content-description{
+    color: white;
 }
